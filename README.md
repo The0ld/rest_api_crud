@@ -12,6 +12,6 @@ To use the app you must apply the following commands within the directory:
 
 $ npm install
 
-$ node index.js
+$ npm start
 
 Note: You must have MongoDB installed and configured with a collection called "book_db"

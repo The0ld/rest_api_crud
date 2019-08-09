@@ -11,6 +11,7 @@ The main modules used are:
 To use the app you must apply the following commands within the directory:
 
 $ npm install
+
 $ node index.js
 
 Note: You must have MongoDB installed and configured with a collection called "book_db"
